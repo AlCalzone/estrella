@@ -1,4 +1,10 @@
+This is the same as
+
 <img src="misc/estrella-logo.png" width="320" align="center">
+
+but with `esbuild` as a peer dependency.
+
+---
 
 Estrella is a lightweight and versatile build tool based on the fantastic
 [esbuild](https://github.com/evanw/esbuild) TypeScript and JavaScript compiler.
